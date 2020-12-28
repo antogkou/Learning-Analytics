@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kosmoglou.antogkou.learninganalytics.PostsActivity">
+    <item
+        android:id="@+id/delete_post"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:title="Delete Post"
+        android:visible="false"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/edit_post"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:orderInCategory="200"
+        android:title="Edit Post"
+        android:visible="false"
+        app:showAsAction="always|withText"
+        />
+</menu>

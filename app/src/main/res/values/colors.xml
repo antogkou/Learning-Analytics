@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#85A2A0</color>
+    <color name="colorPrimaryDark">#01011F</color>
+    <color name="colorAccent">#025050</color>
+
+    <color name="cardview_light_background">#FAFAFA</color>
+    <!-- Background color for dark CardView. -->
+    <color name="cardview_dark_background">#000000</color>
+    <!-- Shadow color for the first pixels around CardView. -->
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- Shadow color for the furthest pixels around CardView. -->
+    <color name="cardview_shadow_end_color">#03000000</color>
+</resources>

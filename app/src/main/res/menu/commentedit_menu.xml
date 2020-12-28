@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kosmoglou.antogkou.learninganalytics.PostsActivity">
+    <item
+        android:id="@+id/delete_comment"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:title="Delete Comment"
+        app:showAsAction="always|withText" />
+</menu>

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "95674451335",
+    "firebase_url": "https://learninganalytics-70e0e.firebaseio.com",
+    "project_id": "learninganalytics-70e0e",
+    "storage_bucket": "learninganalytics-70e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95674451335:android:b706d7c0a9be73b4",
+        "android_client_info": {
+          "package_name": "kosmoglou.antogkou.learninganalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95674451335-c30pdjf3beqqc7h450pujqnf4ffbml69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kosmoglou.antogkou.learninganalytics",
+            "certificate_hash": "f203ee8ea27c372090ecc5e6d59040c277707565"
+          }
+        },
+        {
+          "client_id": "95674451335-ru0nqtvpm778vp0pn438q2r6729j1t83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kosmoglou.antogkou.learninganalytics",
+            "certificate_hash": "b45aaf230587f293699643baddfa95b5d683420e"
+          }
+        },
+        {
+          "client_id": "95674451335-a7a3m0dv2gh06cresrocjeed9c7vobo8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "95674451335-a7a3m0dv2gh06cresrocjeed9c7vobo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBiMof3jbrRDb1ClCtWLuIvig_-ZkcHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95674451335-a7a3m0dv2gh06cresrocjeed9c7vobo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
